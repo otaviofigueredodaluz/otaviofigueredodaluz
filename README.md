@@ -1,7 +1,7 @@
-### Hi there 👋
+###ola sou o aluno otavio estudo no colegio aurelio na primeira serie do ensino medio 
 
 <!--
-**otaviofigueredodaluz/otaviofigueredodaluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**otaviofigueredodaluz/otaviofigueredodaluz** is a ✨ _special_ ✨ repository because its `README.md` (this f
 
 Here are some ideas to get you started:
 
